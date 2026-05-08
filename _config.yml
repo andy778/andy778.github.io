@@ -1,0 +1,19 @@
+title: Andy B
+description: "Personal site and blog"
+baseurl: ""
+url: "https://andy778.github.io"
+theme: minima
+
+minima:
+  skin: classic
+
+author:
+  name: Andy B
+
+header_pages:
+  - blog.md
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
